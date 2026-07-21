@@ -20,8 +20,6 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@master
-        with:
-          ref: 'test_release'
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -42,8 +40,6 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@master
-        with:
-          ref: 'test_release'
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -64,8 +60,6 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@master
-        with:
-          ref: 'test_release'
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -86,8 +80,6 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@master
-        with:
-          ref: 'test_release'
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -108,8 +100,6 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@master
-        with:
-          ref: 'test_release'
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -130,8 +120,6 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@master
-        with:
-          ref: 'test_release'
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -152,8 +140,6 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@master
-        with:
-          ref: 'test_release'
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -174,8 +160,6 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@master
-        with:
-          ref: 'test_release'
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -196,8 +180,6 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@master
-        with:
-          ref: 'test_release'
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -218,8 +200,6 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@master
-        with:
-          ref: 'test_release'
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -240,8 +220,6 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@master
-        with:
-          ref: 'test_release'
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -262,8 +240,6 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@master
-        with:
-          ref: 'test_release'
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
